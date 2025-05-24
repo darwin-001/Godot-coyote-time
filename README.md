@@ -8,7 +8,7 @@ This repository contains the example Godot Engine project for implementing **"Co
 
 This code accompanies the tutorial video on my YouTube channel:
 
-[**WATCH THE TUTORIAL HERE**](https://youtube.com/@djhifigamedev?si=70q8Pr6AHD0jNtxd)
+[**WATCH THE TUTORIAL HERE**](https://youtu.be/gJ4uzy_xF6s?si=HVvGvg3kuTet-9VU)
 
 ## How to Run
 
